@@ -1,0 +1,87 @@
+.container-fluid{
+   margin: 0;
+   padding: 0;
+}
+
+.levo{
+    width: 20%;
+    float: left;
+    height: 665px;
+    padding: 15px 10px;
+    border-right: 0.5px solid lightgrey;
+    
+}
+
+#desno{
+    height: 665px;
+    
+}
+
+#message{
+    height: 630px;
+    background-color: #F8F9FA;
+    border-top: 0.5px solid lightgrey;
+}
+
+.usermsg{
+    padding: 3px;
+    margin: 10px;
+}
+
+.user-username{
+    color: #006DBF;
+    font-weight: bold; 
+}
+
+.messagecontent{
+    display: inline-block;
+    padding: 5px 10px;
+    border: 0.5px solid #006DBF;
+    border-radius: 10px;    
+    background-color: white;
+}
+
+.nazivi{
+    padding: 5px 15px;
+    border-radius: 10px;  
+    border: 0.5px solid #006DBF;
+}
+
+.forma{
+    padding: 10px 0;
+    margin-left: 350px;
+}
+
+.navbar{
+    border-bottom: 0.5px solid lightgrey;
+}
+
+#msg{
+    width: 400px;
+    margin: 0 10px;
+}
+
+.img{
+   box-shadow: -14px 17px 15px -8px rgba(0, 0, 0, 1);
+   margin-bottom: 20px;
+   
+  
+}
+
+.user-info{
+    border-top: 0.5px solid lightgrey;
+}
+
+.user-data{
+    border-bottom: 0.5px solid lightgrey;
+    padding: 10px;
+}
+
+.txt{
+    color: #006DBF;
+    font-weight: bold;
+}
+
+.edit{
+    float: right;
+}
